@@ -11,3 +11,5 @@ in terms of REAL-TIME data. we are going to answer to number of leading question
 3- What is the global death rate day per day ? 
 
 4 - How the INFECTION and the DEATH rates are Related to eachother? 
+
+https://www.youtube.com/watch?v=YbujCurgC
